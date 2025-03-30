@@ -1,0 +1,14 @@
+patch
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+transformers
+sentencepiece
+nltk
+spacy
+textblob
+googletrans==4.0.0-rc1
